@@ -1,3 +1,124 @@
 <resources>
     <string name="app_name">30days</string>
+
+
+    <string name="day_one">День 1</string>
+    <string name="day_one_exercise">Настройка окружения</string>
+    <string name="day_one_exercise_description">Установи редактор кода (VS Code, PyCharm и т.д.), настрой рабочее окружение и напиши свою первую программу «Hello, World!».</string>
+
+    <string name="day_two">День 2</string>
+    <string name="day_two_exercise">Изучаем базовый синтаксис</string>
+    <string name="day_two_exercise_description">Познакомься с переменными, типами данных и основными операциями в выбранном языке программирования.</string>
+
+    <string name="day_three">День 3</string>
+    <string name="day_three_exercise">Условные конструкции</string>
+    <string name="day_three_exercise_description">Попрактикуйся в использовании операторов if-else для принятия решений в программе.</string>
+
+    <string name="day_four">День 4</string>
+    <string name="day_four_exercise">Циклы</string>
+    <string name="day_four_exercise_description">Освой циклы for и while, чтобы повторять действия и автоматизировать процессы.</string>
+
+    <string name="day_five">День 5</string>
+    <string name="day_five_exercise">Функции и структурирование кода</string>
+    <string name="day_five_exercise_description">Создавай функции для повторного использования кода и учись логично структурировать программу.</string>
+
+    <string name="day_six">День 6</string>
+    <string name="day_six_exercise">Списки и массивы</string>
+    <string name="day_six_exercise_description">Изучи работу со списками (или массивами): добавление, удаление и изменение элементов.</string>
+
+    <string name="day_seven">День 7</string>
+    <string name="day_seven_exercise">Ввод данных от пользователя</string>
+    <string name="day_seven_exercise_description">Научись принимать данные от пользователя и использовать их в программе.</string>
+
+    <string name="day_eight">День 8</string>
+    <string name="day_eight_exercise">Словари и пары ключ-значение</string>
+    <string name="day_eight_exercise_description">Разберись, как использовать словари (или хэш-таблицы) для хранения и быстрого доступа к данным.</string>
+
+    <string name="day_nine">День 9</string>
+    <string name="day_nine_exercise">Работа со строками</string>
+    <string name="day_nine_exercise_description">Попрактикуйся в обработке строк: объединение, разбиение, форматирование и поиск подстрок.</string>
+
+    <string name="day_ten">День 10</string>
+    <string name="day_ten_exercise">Основы отладки</string>
+    <string name="day_ten_exercise_description">Научись находить и исправлять ошибки с помощью инструментов отладки и логического анализа кода.</string>
+
+    <string name="day_eleven">День 11</string>
+    <string name="day_eleven_exercise">Работа с файлами</string>
+    <string name="day_eleven_exercise_description">Изучи, как читать и записывать данные в файлы для сохранения информации и результатов программы.</string>
+
+    <string name="day_twelve">День 12</string>
+    <string name="day_twelve_exercise">Обработка ошибок</string>
+    <string name="day_twelve_exercise_description">Добавь в свой код обработку исключений, чтобы программа не «падала» при непредвиденных ситуациях.</string>
+
+    <string name="day_thirteen">День 13</string>
+    <string name="day_thirteen_exercise">Основы ООП</string>
+    <string name="day_thirteen_exercise_description">Познакомься с классами и объектами. Создай простую программу, моделирующую реальные сущности.</string>
+
+    <string name="day_fourteen">День 14</string>
+    <string name="day_fourteen_exercise">Наследование и полиморфизм</string>
+    <string name="day_fourteen_exercise_description">Разбери, как классы могут наследовать свойства и методы, чтобы переиспользовать и расширять код.</string>
+
+    <string name="day_fifteen">День 15</string>
+    <string name="day_fifteen_exercise">Модули и библиотеки</string>
+    <string name="day_fifteen_exercise_description">Научись подключать внешние библиотеки и встроенные модули, чтобы решать сложные задачи проще.</string>
+
+    <string name="day_sixteen">День 16</string>
+    <string name="day_sixteen_exercise">Мини-проект: калькулятор</string>
+    <string name="day_sixteen_exercise_description">Создай простое приложение-калькулятор, используя функции, условия и циклы.</string>
+
+    <string name="day_seventeen">День 17</string>
+    <string name="day_seventeen_exercise">Структуры данных</string>
+    <string name="day_seventeen_exercise_description">Изучи и попрактикуйся с основными структурами данных: списки, стеки, очереди и множества.</string>
+
+    <string name="day_eighteen">День 18</string>
+    <string name="day_eighteen_exercise">Основы алгоритмов</string>
+    <string name="day_eighteen_exercise_description">Познакомься с базовыми алгоритмами, такими как поиск и сортировка, и реализуй один из них самостоятельно.</string>
+
+    <string name="day_nineteen">День 19</string>
+    <string name="day_nineteen_exercise">Работа с API</string>
+    <string name="day_nineteen_exercise_description">Научись получать данные из внешних API, например, погоду или цитаты, и отображать их в своей программе.</string>
+
+    <string name="day_twenty">День 20</string>
+    <string name="day_twenty_exercise">Основы баз данных</string>
+    <string name="day_twenty_exercise_description">Разбери, как работают базы данных, и попробуй подключить свою программу для сохранения данных.</string>
+
+    <string name="day_twenty_one">День 21</string>
+    <string name="day_twenty_one_exercise">Как работает веб</string>
+    <string name="day_twenty_one_exercise_description">Пойми основы HTTP-запросов, JSON и взаимодействия между клиентом и сервером.</string>
+
+    <string name="day_twenty_two">День 22</string>
+    <string name="day_twenty_two_exercise">Контроль версий с Git</string>
+    <string name="day_twenty_two_exercise_description">Установи Git и выучи основные команды: init, commit, push, pull — для управления историей кода.</string>
+
+    <string name="day_twenty_three">День 23</string>
+    <string name="day_twenty_three_exercise">Работа с GitHub</string>
+    <string name="day_twenty_three_exercise_description">Создай репозиторий на GitHub, загрузь свой проект и попробуй внести вклад в открытый проект.</string>
+
+    <string name="day_twenty_four">День 24</string>
+    <string name="day_twenty_four_exercise">Знакомство с фреймворками</string>
+    <string name="day_twenty_four_exercise_description">Попробуй лёгкий фреймворк (Flask, Django или React), чтобы понять, как создаются современные приложения.</string>
+
+    <string name="day_twenty_five">День 25</string>
+    <string name="day_twenty_five_exercise">Мини-проект: список дел</string>
+    <string name="day_twenty_five_exercise_description">Создай приложение «Список дел» с возможностью добавлять, редактировать и удалять задачи.</string>
+
+    <string name="day_twenty_six">День 26</string>
+    <string name="day_twenty_six_exercise">Оптимизация кода</string>
+    <string name="day_twenty_six_exercise_description">Научись писать эффективный код: анализируй сложность, оптимизируй циклы и работу с памятью.</string>
+
+    <string name="day_twenty_seven">День 27</string>
+    <string name="day_twenty_seven_exercise">Тестирование</string>
+    <string name="day_twenty_seven_exercise_description">Напиши простые тесты для своих функций и изучи основы unit-тестирования (например, pytest или JUnit).</string>
+
+    <string name="day_twenty_eight">День 28</string>
+    <string name="day_twenty_eight_exercise">Рефакторинг</string>
+    <string name="day_twenty_eight_exercise_description">Наведи порядок в коде: переименуй переменные, вынеси повторяющиеся части в функции, сделай код чище.</string>
+
+    <string name="day_twenty_nine">День 29</string>
+    <string name="day_twenty_nine_exercise">Создание портфолио</string>
+    <string name="day_twenty_nine_exercise_description">Собери свои лучшие проекты, выложи их на GitHub и оформи страницу или README с описанием.</string>
+
+    <string name="day_thirty">День 30</string>
+    <string name="day_thirty_exercise">Итоги и новые цели</string>
+    <string name="day_thirty_exercise_description">Подведи итоги 30 дней, оцени свой прогресс и поставь цели на следующий этап изучения программирования.</string>
 </resources>
