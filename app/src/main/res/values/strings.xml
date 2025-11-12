@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">30days</string>
 
+    <string name="top_bar">30 дней кодинга</string>
+
 
     <string name="day_one">День 1</string>
     <string name="day_one_exercise">Настройка окружения</string>
