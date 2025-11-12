@@ -92,7 +92,6 @@ fun DailyExerciseCard(
                     .fillMaxWidth()
                     .padding(dimensionResource(id = R.dimen.padding_medium))
             ) {
-                // День и заголовок
                 Text(
                     text = stringResource(id = dailyExercise.day),
                     style = MaterialTheme.typography.titleMedium,
